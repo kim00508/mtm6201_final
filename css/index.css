@@ -27,24 +27,22 @@
 }
 
 .menu_btn a {
-    display: block; /* a 태그를 블록 요소로 설정하여 부모 크기 채움 */
+    display: block; 
     font-family: var(--secondary-font);
     color: white;
     text-decoration: none;
     font-size: 36px;
     font-weight: 700;
     line-height: 50px;
-    padding: 10px 0; /* 버튼 안쪽 여백 설정 */
+    padding: 10px 0; 
 }
 
 .menu_btn a:hover {
-    background-color: var(--color-orange); /* 마우스를 올렸을 때 배경색 변경 */
-    color: #fff; /* 마우스를 올렸을 때 텍스트 색상 */
-    border-radius: 9999px; /* 둥근 모서리 유지 */
+    background-color: var(--color-orange); 
+    color: #fff; 
+    border-radius: 9999px; 
 }
 
-
-  
   .opening-hours {
     background-color: var(--color-orange);
     font-size: 20px;
