@@ -51,8 +51,8 @@
     border: 3px solid var(--color-orange);
     padding: 10px 12px;
     font-weight: 700;
-  } */
-  
+  }
+   */
   .ms-4.home-item a:hover {
     background-color: var(--color-green); 
     color: #fff; 
